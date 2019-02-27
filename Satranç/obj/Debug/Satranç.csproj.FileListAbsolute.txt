@@ -1,0 +1,55 @@
+C:\Users\UMUT CAN\Desktop\Satranç\Satranç\obj\Debug\Satranç.csprojResolveAssemblyReference.cache
+C:\Users\UMUT CAN\Desktop\Satranç\Satranç\obj\Debug\Satranç.Form1.resources
+C:\Users\UMUT CAN\Desktop\Satranç\Satranç\obj\Debug\Satranç.Form2.resources
+C:\Users\UMUT CAN\Desktop\Satranç\Satranç\obj\Debug\Satranç.Form3.resources
+C:\Users\UMUT CAN\Desktop\Satranç\Satranç\obj\Debug\Satranç.Form4.resources
+C:\Users\UMUT CAN\Desktop\Satranç\Satranç\obj\Debug\Satranç.Form5.resources
+C:\Users\UMUT CAN\Desktop\Satranç\Satranç\obj\Debug\Satranç.Form6.resources
+C:\Users\UMUT CAN\Desktop\Satranç\Satranç\obj\Debug\Satranç.Properties.Resources.resources
+C:\Users\UMUT CAN\Desktop\Satranç\Satranç\obj\Debug\Satranç.csproj.GenerateResource.Cache
+C:\Users\UMUT CAN\Desktop\Satranç\Satranç\obj\Debug\Satranç.csproj.CoreCompileInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\Satranç\Satranç\obj\Debug\Satranç.csprojResolveAssemblyReference.cache
+C:\Users\bilal\OneDrive\Masaüstü\Satranç\Satranç\obj\Debug\Satranç.Form1.resources
+C:\Users\bilal\OneDrive\Masaüstü\Satranç\Satranç\obj\Debug\Satranç.Properties.Resources.resources
+C:\Users\bilal\OneDrive\Masaüstü\Satranç\Satranç\obj\Debug\Satranç.csproj.GenerateResource.Cache
+C:\Users\bilal\OneDrive\Masaüstü\Satranç\Satranç\obj\Debug\Satranç.csproj.CoreCompileInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\Satranç\Satranç\bin\Debug\Satranç.exe.config
+C:\Users\bilal\OneDrive\Masaüstü\Satranç\Satranç\bin\Debug\Satranç.exe
+C:\Users\bilal\OneDrive\Masaüstü\Satranç\Satranç\bin\Debug\Satranç.pdb
+C:\Users\bilal\OneDrive\Masaüstü\Satranç\Satranç\obj\Debug\Satranç.exe
+C:\Users\bilal\OneDrive\Masaüstü\Satranç\Satranç\obj\Debug\Satranç.pdb
+C:\Users\bilal\OneDrive\Masaüstü\Satranç\Satranç\obj\Debug\Satranç.FrmBeslik.resources
+C:\Users\bilal\OneDrive\Masaüstü\Satranç\Satranç\obj\Debug\Satranç.FrmAltılık.resources
+C:\Users\bilal\OneDrive\Masaüstü\Satranç\Satranç\obj\Debug\Satranç.FrmYedilik.resources
+C:\Users\bilal\OneDrive\Masaüstü\Satranç\Satranç\obj\Debug\Satranç.FrmSekizlik.resources
+C:\Users\bilal\OneDrive\Masaüstü\Satranç\Satranç\obj\Debug\Satranç.FrmDokuzluk.resources
+C:\Users\bilal\OneDrive\Masaüstü\Yeni satranç ödevi\Satranç\bin\Debug\Satranç.exe.config
+C:\Users\bilal\OneDrive\Masaüstü\Yeni satranç ödevi\Satranç\bin\Debug\Satranç.exe
+C:\Users\bilal\OneDrive\Masaüstü\Yeni satranç ödevi\Satranç\bin\Debug\Satranç.pdb
+C:\Users\bilal\OneDrive\Masaüstü\Yeni satranç ödevi\Satranç\obj\Debug\Satranç.csprojResolveAssemblyReference.cache
+C:\Users\bilal\OneDrive\Masaüstü\Yeni satranç ödevi\Satranç\obj\Debug\Satranç.Form1.resources
+C:\Users\bilal\OneDrive\Masaüstü\Yeni satranç ödevi\Satranç\obj\Debug\Satranç.FrmBeslik.resources
+C:\Users\bilal\OneDrive\Masaüstü\Yeni satranç ödevi\Satranç\obj\Debug\Satranç.FrmAltılık.resources
+C:\Users\bilal\OneDrive\Masaüstü\Yeni satranç ödevi\Satranç\obj\Debug\Satranç.FrmYedilik.resources
+C:\Users\bilal\OneDrive\Masaüstü\Yeni satranç ödevi\Satranç\obj\Debug\Satranç.FrmSekizlik.resources
+C:\Users\bilal\OneDrive\Masaüstü\Yeni satranç ödevi\Satranç\obj\Debug\Satranç.FrmDokuzluk.resources
+C:\Users\bilal\OneDrive\Masaüstü\Yeni satranç ödevi\Satranç\obj\Debug\Satranç.Properties.Resources.resources
+C:\Users\bilal\OneDrive\Masaüstü\Yeni satranç ödevi\Satranç\obj\Debug\Satranç.csproj.GenerateResource.Cache
+C:\Users\bilal\OneDrive\Masaüstü\Yeni satranç ödevi\Satranç\obj\Debug\Satranç.csproj.CoreCompileInputs.cache
+C:\Users\bilal\OneDrive\Masaüstü\Yeni satranç ödevi\Satranç\obj\Debug\Satranç.exe
+C:\Users\bilal\OneDrive\Masaüstü\Yeni satranç ödevi\Satranç\obj\Debug\Satranç.pdb
+D:\ÖDEVLER\Yazılım Yapımı ödevleri\Yazılım Yapımı Ödev-2\Yazılım Yapımı Ödev-2\Yeni satranç ödevi\Satranç\bin\Debug\Satranç.exe.config
+D:\ÖDEVLER\Yazılım Yapımı ödevleri\Yazılım Yapımı Ödev-2\Yazılım Yapımı Ödev-2\Yeni satranç ödevi\Satranç\bin\Debug\Satranç.exe
+D:\ÖDEVLER\Yazılım Yapımı ödevleri\Yazılım Yapımı Ödev-2\Yazılım Yapımı Ödev-2\Yeni satranç ödevi\Satranç\bin\Debug\Satranç.pdb
+D:\ÖDEVLER\Yazılım Yapımı ödevleri\Yazılım Yapımı Ödev-2\Yazılım Yapımı Ödev-2\Yeni satranç ödevi\Satranç\obj\Debug\Satranç.Form1.resources
+D:\ÖDEVLER\Yazılım Yapımı ödevleri\Yazılım Yapımı Ödev-2\Yazılım Yapımı Ödev-2\Yeni satranç ödevi\Satranç\obj\Debug\Satranç.FrmBeslik.resources
+D:\ÖDEVLER\Yazılım Yapımı ödevleri\Yazılım Yapımı Ödev-2\Yazılım Yapımı Ödev-2\Yeni satranç ödevi\Satranç\obj\Debug\Satranç.FrmAltılık.resources
+D:\ÖDEVLER\Yazılım Yapımı ödevleri\Yazılım Yapımı Ödev-2\Yazılım Yapımı Ödev-2\Yeni satranç ödevi\Satranç\obj\Debug\Satranç.FrmYedilik.resources
+D:\ÖDEVLER\Yazılım Yapımı ödevleri\Yazılım Yapımı Ödev-2\Yazılım Yapımı Ödev-2\Yeni satranç ödevi\Satranç\obj\Debug\Satranç.FrmSekizlik.resources
+D:\ÖDEVLER\Yazılım Yapımı ödevleri\Yazılım Yapımı Ödev-2\Yazılım Yapımı Ödev-2\Yeni satranç ödevi\Satranç\obj\Debug\Satranç.FrmDokuzluk.resources
+D:\ÖDEVLER\Yazılım Yapımı ödevleri\Yazılım Yapımı Ödev-2\Yazılım Yapımı Ödev-2\Yeni satranç ödevi\Satranç\obj\Debug\Satranç.Properties.Resources.resources
+D:\ÖDEVLER\Yazılım Yapımı ödevleri\Yazılım Yapımı Ödev-2\Yazılım Yapımı Ödev-2\Yeni satranç ödevi\Satranç\obj\Debug\Satranç.csproj.GenerateResource.Cache
+D:\ÖDEVLER\Yazılım Yapımı ödevleri\Yazılım Yapımı Ödev-2\Yazılım Yapımı Ödev-2\Yeni satranç ödevi\Satranç\obj\Debug\Satranç.csproj.CoreCompileInputs.cache
+D:\ÖDEVLER\Yazılım Yapımı ödevleri\Yazılım Yapımı Ödev-2\Yazılım Yapımı Ödev-2\Yeni satranç ödevi\Satranç\obj\Debug\Satranç.exe
+D:\ÖDEVLER\Yazılım Yapımı ödevleri\Yazılım Yapımı Ödev-2\Yazılım Yapımı Ödev-2\Yeni satranç ödevi\Satranç\obj\Debug\Satranç.pdb
+D:\ÖDEVLER\Yazılım Yapımı ödevleri\Yazılım Yapımı Ödev-2\Yazılım Yapımı Ödev-2\Yeni satranç ödevi\Satranç\obj\Debug\Satranç.csprojAssemblyReference.cache
